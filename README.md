@@ -51,19 +51,17 @@ digital-literacy-project/
 Created a one-page infographic using Canva covering 
 five key digital literacy topics including safe internet 
 practices, useful digital tools, and email etiquette.
-🔗 [View Canva Design](#)
 
 ### Task 2 – Student Digital Portfolio
 Set up professional profiles on GitHub, LinkedIn, and 
 Kaggle to build a strong digital presence for academic 
 and career opportunities.
-🔗 [LinkedIn Profile](#) | [Kaggle Profile](#)
 
 ### Task 3 – Coding & Collaboration Platforms
 Completed a beginner coding challenge on HackerRank 
 and created a 5-question Digital Literacy Awareness 
 Quiz using Google Forms.
-🔗 [Google Form Quiz](#)
+🔗 [Google Form Quiz](#) https://docs.google.com/forms/d/e/1FAIpQLSdKKsRRCqx3Ag3b86neJtpMfu13l4UAjrq27dOLU2Cd4SHUgQ/viewform?usp=publish-editor
 
 ### Task 4 – Email Etiquette
 Drafted two professional emails and created a Social 
