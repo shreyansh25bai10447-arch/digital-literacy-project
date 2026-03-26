@@ -1,0 +1,57 @@
+To: internships@companyname.com
+Subject: Application for Summer Internship Opportunity 
+         – [Your Name] – B.Tech CSE – VIT Bhopal
+
+Dear Sir/Madam,
+
+I hope this email finds you well.
+
+My name is [Your Full Name] and I am currently 
+pursuing my B.Tech in [Branch] (First Year) at 
+VIT Bhopal University, with an expected graduation 
+year of [Year].
+
+I am writing to express my sincere interest in a 
+summer internship opportunity at [Company Name]. 
+I have been following your organisation's work in 
+[mention field — e.g., software development / data 
+analytics / cybersecurity] and I am genuinely 
+inspired by your commitment to [mention something 
+specific — e.g., innovation / building scalable 
+solutions / digital transformation].
+
+Although I am in the early stage of my academic 
+journey, I am eager to learn and contribute. I have 
+recently been developing skills in the following 
+areas:
+
+- Digital tools and collaboration platforms 
+  (Google Workspace, GitHub)
+- Basic programming and problem solving 
+  (HackerRank)
+- Professional communication and documentation
+
+I am a quick learner, highly motivated, and I 
+believe that an internship at your organisation 
+would provide me with invaluable real-world 
+experience that complements my academic learning.
+
+I would be grateful for the opportunity to 
+discuss any available internship roles. I am 
+available for an online or in-person interaction 
+at your convenience.
+
+Please find my GitHub profile here: 
+[your github link]
+Please find my LinkedIn profile here: 
+[your linkedin link]
+
+Thank you sincerely for considering my application. 
+I look forward to hearing from you.
+
+Yours sincerely,
+Shreyansh
+Registration No.: 25BAI10447
+Branch : CSE(AI + ML) | First Year B.Tech
+VIT Bhopal University
+Email: [your college email]

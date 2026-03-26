@@ -1,0 +1,83 @@
+# Social Media Do's and Don'ts
+## For College Students | CSE0001 Digital Literacy
+### VIT Bhopal University | [Your Name] | [Reg No.]
+
+---
+
+## ✅ DO'S
+
+1. **Keep your profiles professional and updated**
+   Recruiters and professors often check your social 
+   media before internships or opportunities.
+
+2. **Think before you post**
+   Ask yourself "would my professor or parent 
+   see this?" Once posted, content is nearly 
+   impossible to fully delete.
+
+3. **Use privacy settings to control who sees 
+   your content**
+   Protects your personal information from 
+   strangers and potential scammers.
+
+4. **Give credit when sharing someone else's 
+   work or content**
+   Respects intellectual property and builds 
+   your reputation as an honest person.
+
+5. **Report harassment, fake accounts, and 
+   suspicious content immediately**
+   Keeps the online community safe and 
+   protects yourself from harm.
+
+---
+
+## ❌ DON'TS
+
+1. **Never share your phone number, address, 
+   or college ID publicly**
+   Personal details can be misused for stalking, 
+   scamming or identity theft.
+
+2. **Never post offensive, racist, or 
+   inappropriate content of any kind**
+   Can lead to serious academic and legal 
+   consequences including expulsion.
+
+3. **Never share OTPs, passwords, or bank 
+   details on any platform**
+   This is the most common cause of UPI fraud 
+   and financial loss among students.
+
+4. **Never engage with or respond to 
+   cyberbullies or online trolls**
+   Engaging escalates the situation — 
+   report and block instead.
+
+5. **Never blindly trust or meet someone 
+   you only know from social media**
+   Online identities can be completely fake — 
+   always verify before trusting.
+
+---
+
+## 🚨 Cybercrime Helpline
+- Report at: cybercrime.gov.in
+- Call: 1930 (24x7 National Helpline)
+
+---
+*Created as part of CSE0001 Digital Literacy Project*
+*VIT Bhopal University | 2024-25*
+```
+
+---
+
+## How to Submit This:
+
+**Step 1** — Open **Notepad** or any text editor
+
+**Step 2** — Copy the markdown content above
+
+**Step 3** — Save the file as:
+```
+social-media-checklist.md
