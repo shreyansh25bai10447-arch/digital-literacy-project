@@ -1,0 +1,127 @@
+# Cybercrime Case Study — UPI/Online Payment Fraud
+## CSE0001 Digital Literacy | Task 5
+### [Your Name] | [Reg No.] | VIT Bhopal University
+
+---
+
+## What is UPI/Online Payment Fraud?
+
+UPI (Unified Payments Interface) fraud is a type of 
+cybercrime where fraudsters trick innocent users into 
+transferring money or revealing sensitive financial 
+details through deception, fake links, or social 
+engineering. It is one of the fastest growing 
+cybercrimes in India, targeting millions of smartphone 
+users every year.
+
+---
+
+## How It Happens — Step by Step:
+
+**Step 1 — The Setup**
+The fraudster identifies a target, usually someone who 
+has recently posted about buying or selling something 
+online (e.g., OLX, Facebook Marketplace), or someone 
+who has publicly asked for customer support help on 
+social media.
+
+**Step 2 — First Contact**
+The fraudster contacts the victim pretending to be a 
+buyer, seller, bank representative, or customer care 
+executive. They sound polite, professional and 
+completely convincing.
+
+**Step 3 — The Trap**
+The fraudster sends a fake UPI payment request or a 
+malicious link saying "Click this to RECEIVE your 
+payment." The victim, believing they are receiving 
+money, enters their UPI PIN — which actually SENDS 
+money instead.
+
+**Step 4 — OTP Theft**
+In some cases, the fraudster asks the victim to 
+share their OTP "for verification purposes." Once 
+the OTP is shared, the fraudster gains full access 
+to the victim's bank account.
+
+**Step 5 — Money Gone**
+Within seconds, the entire amount is transferred 
+to the fraudster's account. The money is then 
+quickly moved across multiple accounts making 
+it nearly impossible to trace or recover.
+
+---
+
+## Who Gets Targeted?
+
+- First-time UPI users and elderly people
+- College students buying/selling on OLX or 
+  Facebook Marketplace
+- People seeking refunds or customer support 
+  on social media
+- Small business owners and shopkeepers
+- Anyone who publicly shares their phone 
+  number online
+
+---
+
+## Real Case Scenario:
+
+Ravi, a 19-year-old engineering student from Bhopal, 
+listed his old laptop for sale on OLX for ₹15,000. 
+A buyer contacted him and said he would pay via UPI. 
+The buyer sent a UPI collect request of ₹15,000 
+saying "accept this to receive payment." Ravi 
+entered his PIN thinking he was accepting payment. 
+Instead ₹15,000 was debited from his account. 
+By the time Ravi realised the mistake, the 
+fraudster had already disappeared.
+
+---
+
+## Consequences:
+
+**For the Victim:**
+- Immediate financial loss ranging from 
+  hundreds to lakhs of rupees
+- Emotional distress, anxiety and loss of trust
+- Difficulty recovering money as transactions 
+  are instant and hard to reverse
+- Risk of identity theft if personal details 
+  were shared
+
+**For Society:**
+- Erosion of trust in digital payment systems
+- Increased fear of using UPI among new users
+- Financial burden on families, especially 
+  students and middle-class households
+
+---
+
+## Source:
+- National Cyber Crime Reporting Portal — 
+  cybercrime.gov.in
+- Reserve Bank of India Digital Payments 
+  Safety Guidelines — rbi.org.in
+- Press Information Bureau, Government of India
+
+---
+*Case Study written as part of CSE0001 Digital 
+Literacy Project | VIT Bhopal University | 2024-25*
+```
+
+---
+
+## Word Count: ~240 words ✅
+
+---
+
+## How to Submit:
+
+**Step 1** — Open **Notepad** or any text editor
+
+**Step 2** — Copy the entire content above
+
+**Step 3** — Save as:
+```
+casestudy.md

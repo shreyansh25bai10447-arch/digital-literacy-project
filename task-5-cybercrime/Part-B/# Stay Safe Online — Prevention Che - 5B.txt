@@ -1,0 +1,150 @@
+# Stay Safe Online — Prevention Checklist
+## For College Students in India
+### CSE0001 Digital Literacy | Task 5
+### [Your Name] | [Reg No.] | VIT Bhopal University
+
+---
+
+## 🔒 General Internet Safety Tips
+
+**Tip 1 — Use Strong and Unique Passwords**
+Create passwords that are at least 12 characters 
+long and include uppercase letters, lowercase 
+letters, numbers and special symbols. Never use 
+your name, date of birth or "password123" as 
+your password. Use a different password for 
+every account.
+
+**Tip 2 — Enable Two-Factor Authentication (2FA)**
+Always turn on 2FA on all important accounts 
+including Gmail, Instagram, LinkedIn and GitHub. 
+This adds an extra layer of security — even if 
+someone steals your password, they cannot log 
+in without the second verification code.
+
+**Tip 3 — Never Click on Suspicious Links**
+Do not click on unknown links received via 
+WhatsApp, SMS, email or social media — even 
+if they appear to come from a known contact. 
+These links may install malware or steal your 
+login credentials without your knowledge.
+
+**Tip 4 — Keep Your Apps and Devices Updated**
+Always install the latest software and security 
+updates on your phone and laptop. Updates fix 
+known security vulnerabilities that hackers 
+actively exploit to gain access to your device.
+
+**Tip 5 — Use Only Trusted and Secure Wi-Fi**
+Avoid using public Wi-Fi at cafes, malls or 
+railway stations for banking, shopping or 
+logging into important accounts. Public Wi-Fi 
+networks can be monitored by hackers to steal 
+your data and login credentials.
+
+**Tip 6 — Protect Your Personal Information Online**
+Never share your Aadhaar number, PAN card 
+details, college ID, home address or phone 
+number publicly on social media or unknown 
+websites. This information can be misused 
+for identity theft and financial fraud.
+
+---
+
+## 💰 UPI and Financial Safety Tips
+### (Specific to Indian College Students)
+
+**Tip 7 — NEVER Enter Your UPI PIN to RECEIVE Money**
+This is the most important UPI safety rule. 
+You only need to enter your UPI PIN when you 
+are SENDING money — never to receive it. If 
+anyone asks you to enter your PIN or scan a 
+QR code to receive a payment, it is 100% a 
+fraud attempt. Reject and report immediately.
+
+**Tip 8 — Never Share OTPs with Anyone — Ever**
+Your OTP (One Time Password) is confidential 
+and must never be shared with anyone — not 
+even someone claiming to be from your bank, 
+NPCI, Google Pay or PhonePe. Legitimate 
+organisations NEVER ask for OTPs over 
+call, chat or email under any circumstances.
+
+---
+
+## 📱 Social Media Safety Tips
+
+**Tip 9 — Review Your Privacy Settings Regularly**
+Check and update the privacy settings on all 
+your social media accounts every few months. 
+Make sure your posts, phone number and email 
+address are visible only to people you trust 
+and not to the general public.
+
+**Tip 10 — Think Before You Post Anything Online**
+Once something is posted online it can be 
+screenshotted, shared and stored permanently 
+— even after you delete it. Never post content 
+that you would not want your professor, parent 
+or future employer to see.
+
+---
+
+## 🚨 What To Do If You Are a Victim
+
+**Step 1 — Act Immediately**
+If you have been a victim of online fraud, 
+call the National Cyber Crime Helpline 
+immediately. Every minute counts as 
+fraudsters move money quickly.
+
+**Step 2 — Report Online**
+File a complaint on the official National 
+Cyber Crime Reporting Portal. Keep all 
+screenshots, transaction IDs and chat 
+records as evidence before reporting.
+
+**Step 3 — Inform Your Bank**
+Call your bank's customer care immediately 
+to block your card and freeze suspicious 
+transactions. Most banks have a 24x7 
+fraud reporting helpline.
+
+---
+
+## 📞 Emergency Cyber Crime Contacts
+
+| Resource | Details |
+|---|---|
+| 🌐 **National Cyber Crime Portal** | cybercrime.gov.in |
+| 📞 **National Cyber Crime Helpline** | 1930 (24x7) |
+| 🏦 **RBI Helpline** | 14440 |
+| 📧 **Email Complaint** | complaint@cybercrime.gov.in |
+
+---
+
+## ✅ Quick Safety Checklist — Daily Habits
+
+- [ ] I never share my OTP with anyone
+- [ ] I never enter UPI PIN to receive money
+- [ ] I use strong unique passwords for all accounts
+- [ ] I have enabled 2FA on all important accounts
+- [ ] I check links before clicking on them
+- [ ] I keep my apps and phone updated
+- [ ] I avoid public Wi-Fi for banking
+- [ ] I know to call 1930 if I face cybercrime
+- [ ] I have cybercrime.gov.in bookmarked
+
+---
+
+## 📚 References
+- National Cyber Crime Portal — cybercrime.gov.in
+- Reserve Bank of India — rbi.org.in
+- Ministry of Home Affairs, Government of India
+- CERT-In (Indian Computer Emergency Response Team)
+  — cert-in.org.in
+
+---
+*Prevention Checklist created as part of CSE0001 
+Digital Literacy Project | VIT Bhopal University 
+| 2024-25*
